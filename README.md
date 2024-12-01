@@ -45,4 +45,12 @@ The linear regression model provides a reasonable approximation for predicting p
 
 •	Addressing potential outliers or feature scaling issues.
 
-This project demonstrates the practical application of data preprocessing, feature engineering, and regression modeling in the real estate domain.
+This project demonstrates the practical application of data preprocessing, feature engineering and regression modelling in the real estate domain.
+
+## Resources and Bibliography
+Google Colab as the coding environment with help from Gemini and Chatgpt
+
+Microsoft Machine Learning for Engineers available at https://github.com/microsoft/ML-For-Beginners 
+
+Kaggle introduction to Machine Learning available at https://www.kaggle.com/learn/intro-to-machine-learning
+
