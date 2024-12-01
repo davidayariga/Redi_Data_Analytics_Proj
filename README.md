@@ -28,7 +28,7 @@ The data was split into training and testing sets.
 
 ## Model Building:
 
-o	A linear regression model was trained on the processed data using price as the target variable and all other columns as features.
+A linear regression model was trained on the processed data using price as the target variable and all other columns as features.
 
 ## Evaluation:
 
@@ -48,6 +48,7 @@ The linear regression model provides a reasonable approximation for predicting p
 This project demonstrates the practical application of data preprocessing, feature engineering and regression modelling in the real estate domain.
 
 ## Resources and Bibliography
+
 Google Colab as the coding environment with help from Gemini and Chatgpt
 
 Microsoft Machine Learning for Engineers available at https://github.com/microsoft/ML-For-Beginners 
